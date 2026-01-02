@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mezzaluna’s Saving Plan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Mezzaluna’s Commitment to Saving</h1>
+    <p>Personal Saving Plan – One Semester</p>
+  </header>
+
+  <section>
+    <h2>Saving Commitment</h2>
+    <table>
+      <tr>
+        <th>Range of Time</th>
+        <th>Nominals</th>
+        <th>Total</th>
+      </tr>
+      <tr>
+        <td>A Week</td>
+        <td>Rp 5.000 × 7</td>
+        <td>Rp 35.000</td>
+      </tr>
+      <tr>
+        <td>A Month</td>
+        <td>Rp 35.000 × 4</td>
+        <td>Rp 140.000</td>
+      </tr>
+      <tr>
+        <td>A Semester</td>
+        <td>Rp 140.000 × 6</td>
+        <td>Rp 840.000</td>
+      </tr>
+      <tr>
+        <td>Mandatory Saving</td>
+        <td>Rp 150.000 × 6</td>
+        <td>Rp 900.000</td>
+      </tr>
+    </table>
+
+    <p class="highlight">
+      Total Savings in One Semester: <strong>Rp 1.740.000</strong>
+    </p>
+  </section>
+
+  <section>
+    <h2>Income</h2>
+    <table>
+      <tr>
+        <th>Type</th>
+        <th>Nominals</th>
+      </tr>
+      <tr>
+        <td>Pocket Money (Monthly)</td>
+        <td>Rp 400.000</td>
+      </tr>
+      <tr>
+        <td>Pocket Money (Semester)</td>
+        <td>Rp 2.400.000</td>
+      </tr>
+      <tr>
+        <td>Pocket Money Cut (Semester)</td>
+        <td>Rp 300.000</td>
+      </tr>
+    </table>
+
+    <p class="highlight">
+      Temporary Income in One Semester: <strong>Rp 2.100.000</strong>
+    </p>
+  </section>
+
+  <section>
+    <h2>Results</h2>
+    <ul>
+      <li>Income: <strong>Rp 2.100.000</strong></li>
+      <li>Saving Goal: <strong>Rp 1.740.000</strong></li>
+      <li>Remaining Pocket Money: <strong>Rp 360.000</strong></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Pocket Money Management</h2>
+    <table>
+      <tr>
+        <th>Period</th>
+        <th>Amount</th>
+      </tr>
+      <tr>
+        <td>A Semester</td>
+        <td>Rp 360.000</td>
+      </tr>
+      <tr>
+        <td>A Month</td>
+        <td>Rp 60.000</td>
+      </tr>
+      <tr>
+        <td>A Week</td>
+        <td>Rp 15.000</td>
+      </tr>
+      <tr>
+        <td>A Day</td>
+        <td>Rp 2.000</td>
+      </tr>
+    </table>
+  </section>
+
+  <footer>
+    <p>© 2026 Mezzaluna | Saving Plan Website</p>
+  </footer>
+
+</body>
+</html>
+
